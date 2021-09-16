@@ -1,0 +1,12 @@
+C:\ProjectPersonal\MessageSystem\MessageSystem.NET\obj\Debug\MessageSystem.NET.csprojAssemblyReference.cache
+C:\ProjectPersonal\MessageSystem\MessageSystem.NET\obj\Debug\MessageSystem.NET.csproj.CoreCompileInputs.cache
+C:\ProjectPersonal\MessageSystem\MessageSystem.NET\bin\Debug\MessageSystem.NET.exe.config
+C:\ProjectPersonal\MessageSystem\MessageSystem.NET\bin\Debug\MessageSystem.NET.exe
+C:\ProjectPersonal\MessageSystem\MessageSystem.NET\bin\Debug\MessageSystem.NET.pdb
+C:\ProjectPersonal\MessageSystem\MessageSystem.NET\bin\Debug\MessageSystem.dll
+C:\ProjectPersonal\MessageSystem\MessageSystem.NET\bin\Debug\RestSharp.dll
+C:\ProjectPersonal\MessageSystem\MessageSystem.NET\bin\Debug\Newtonsoft.Json.dll
+C:\ProjectPersonal\MessageSystem\MessageSystem.NET\bin\Debug\MessageSystem.pdb
+C:\ProjectPersonal\MessageSystem\MessageSystem.NET\obj\Debug\MessageSystem.NET.csproj.CopyComplete
+C:\ProjectPersonal\MessageSystem\MessageSystem.NET\obj\Debug\MessageSystem.NET.exe
+C:\ProjectPersonal\MessageSystem\MessageSystem.NET\obj\Debug\MessageSystem.NET.pdb

@@ -1,0 +1,11 @@
+C:\ProjectPersonal\MessageSystem\MessageSystem\bin\Debug\net472\MessageSystem.dll
+C:\ProjectPersonal\MessageSystem\MessageSystem\bin\Debug\net472\MessageSystem.pdb
+C:\ProjectPersonal\MessageSystem\MessageSystem\bin\Debug\net472\Newtonsoft.Json.dll
+C:\ProjectPersonal\MessageSystem\MessageSystem\bin\Debug\net472\RestSharp.dll
+C:\ProjectPersonal\MessageSystem\MessageSystem\obj\Debug\net472\MessageSystem.csprojAssemblyReference.cache
+C:\ProjectPersonal\MessageSystem\MessageSystem\obj\Debug\net472\MessageSystem.AssemblyInfoInputs.cache
+C:\ProjectPersonal\MessageSystem\MessageSystem\obj\Debug\net472\MessageSystem.AssemblyInfo.cs
+C:\ProjectPersonal\MessageSystem\MessageSystem\obj\Debug\net472\MessageSystem.csproj.CoreCompileInputs.cache
+C:\ProjectPersonal\MessageSystem\MessageSystem\obj\Debug\net472\MessageSystem.csproj.CopyComplete
+C:\ProjectPersonal\MessageSystem\MessageSystem\obj\Debug\net472\MessageSystem.dll
+C:\ProjectPersonal\MessageSystem\MessageSystem\obj\Debug\net472\MessageSystem.pdb
